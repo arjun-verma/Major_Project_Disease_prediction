@@ -1,0 +1,9 @@
+numpy
+pandas
+streamlit
+streamlit-option-menu
+scikit-learn
+pickle-mixin
+
+
+## pip install -r requirements.txt
